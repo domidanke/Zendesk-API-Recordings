@@ -9,6 +9,9 @@ from pytz import timezone
 import pytz
 import tzlocal
 
+# Use Variable for Root Data storage Directory
+# Company_Codes is used in this version for biased reason
+
 months = {'01': 'January', '02': 'February', '03': 'March', '04': 'April', '05': 'May', '06': 'June',
 	'07': 'July', '08': 'August', '09': 'September', '10': 'October', '11': 'November', '12': 'December'}
 
